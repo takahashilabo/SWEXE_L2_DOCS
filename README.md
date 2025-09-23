@@ -5,8 +5,9 @@
 ```
 index.html（空ファイル）
 css/style.css（空ファイル）
-img/a.png（Classroomよりダウンロード）
+img/a.png（以下の画像を保存）
 ```
+<img src="a.png">
 
 ## index.html にhtmlの基本構造を入力する
 
