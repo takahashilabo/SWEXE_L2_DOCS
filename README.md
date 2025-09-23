@@ -63,6 +63,10 @@ Riding Rails（最新情報）
 </ul>
 ```
 
+## git add&commit
+
+コミットメッセージは各自で考える。
+
 ## いまどきのサイトは中央寄せです
 
 Headに以下を追記する
@@ -120,8 +124,8 @@ index.htmlに以下を追加する
 表示がおかしいので、style.cssに以下を追加する
 ```css
 #pageFooter {
-    border-top: solid 1px #CCCCCC; text-align: center;
-    clear: both;
+  border-top: solid 1px #CCCCCC; text-align: center;
+  clear: both;
 }
 ```
 
@@ -143,6 +147,10 @@ index.htmlに以下を追加する
 ```
 
 ## おかしいので、<img>を本文の上に移動する
+
+## git add&commit
+
+コミットメッセージは各自で考える。
 
 ## ナビゲーションバーをつける。header&navを追加
 
@@ -217,6 +225,9 @@ nav li a:hover {
 <li style="float:right"><a href=".">ログイン</a></li>
 ```
 
+## git add&commit
+
+コミットメッセージは各自で考える。
 
 
 
