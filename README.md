@@ -15,7 +15,7 @@ img/a.png（以下の画像を保存）
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <meta charset=”utf-8”>
+    <meta charset="utf-8">
   </head>
   <body>
   </body>
@@ -67,12 +67,12 @@ Riding Rails（最新情報）
 
 Headに以下を追記する
 ```html
-<link href=”css/style.css” rel=”stylesheet”>
+<link href="css/style.css" rel="stylesheet">
 ```
 
 全体にdivタグを追加する
 ```html
-<div id=”page></div>
+<div id="page></div>
 ```
 
 style.cssに以下を追記する
